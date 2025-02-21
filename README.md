@@ -20,19 +20,48 @@ A RAG (Retriever-Augmented Generation) application that enables users to upload 
 
 ---
 
-### 2. **[Project Name]**
-A brief description of what the project does, the problem it solves, or its purpose.
+### 2. **Mind Maze**
+A web-based productivity application that helps users manage tasks, set reminders, and track progress.
 
-**Tech Stack:** [Tech 1], [Tech 2], [Tech 3]
+**Tech Stack:** React, Tailwind CSS, Express.js, Firebase
 
 **Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+- Designed an intuitive user interface with React and Tailwind for an optimal user experience.
+- Implemented backend data storage and retrieval with Express.js and Firebase.
+- Enabled task management, reminders, and progress tracking to enhance productivity.
+- Ensured code reliability with comprehensive test coverage using React Testing Library and Vitest.
 
-[Live Demo](#) | [GitHub Repo](#)
+[GitHub Repo](https://github.com/jeanyang04/MindMaze-Orbital-24)
 
-![Project Screenshot](image-link-here)
+---
+
+### 3. **Mind Map**
+A desktop application built by a team of 5, designed for therapists to efficiently manage patient contact information, session logs, and therapy notes using a command-line interface combined with a clear, visual interface.
+
+**Tech Stack:** Java, Git
+
+**Key Features:**
+- **Command-Line Interface**: Enables therapists to quickly add, list, and delete patients, as well as manage logs with simple text commands.
+- **Patient Management**: Allows therapists to manage patient information, track session histories, and store detailed logs for better patient organization.
+- **Search and Filter**: Find patients and logs using keywords or specific criteria to ensure quick access.
+- **Robust Logging**: Maintain detailed records of sessions with the ability to add logs per patient and access session history.
+
+[GitHub Repo](https://github.com/jeanyang04/MindMap)
+
+---
+
+### 4. **Skibidi Chatbot**
+A desktop application built by a team of 5, designed for therapists to efficiently manage patient contact information, session logs, and therapy notes using a command-line interface combined with a clear, visual interface.
+
+**Tech Stack:** Java, Git
+
+**Key Features:**
+- **Command-Line Interface**: Enables therapists to quickly add, list, and delete patients, as well as manage logs with simple text commands.
+- **Patient Management**: Allows therapists to manage patient information, track session histories, and store detailed logs for better patient organization.
+- **Search and Filter**: Find patients and logs using keywords or specific criteria to ensure quick access.
+- **Robust Logging**: Maintain detailed records of sessions with the ability to add logs per patient and access session history.
+
+[GitHub Repo](https://github.com/jeanyang04/MindMap)
 
 ---
 
