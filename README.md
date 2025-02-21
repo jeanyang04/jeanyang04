@@ -50,47 +50,21 @@ A desktop application built by a team of 5, designed for therapists to efficient
 
 ---
 
-### 4. **Skibidi Chatbot**
-A desktop application built by a team of 5, designed for therapists to efficiently manage patient contact information, session logs, and therapy notes using a command-line interface combined with a clear, visual interface.
-
-**Tech Stack:** Java, Git
-
-**Key Features:**
-- **Command-Line Interface**: Enables therapists to quickly add, list, and delete patients, as well as manage logs with simple text commands.
-- **Patient Management**: Allows therapists to manage patient information, track session histories, and store detailed logs for better patient organization.
-- **Search and Filter**: Find patients and logs using keywords or specific criteria to ensure quick access.
-- **Robust Logging**: Maintain detailed records of sessions with the ability to add logs per patient and access session history.
-
-[GitHub Repo](https://github.com/jeanyang04/MindMap)
-
----
-
 ## 🛠 Skills & Technologies
 
-- **Languages:** Python, JavaScript, Java, etc.
-- **Frameworks & Libraries:** React, Express, Node.js, Django, etc.
-- **Tools & Platforms:** Git, Docker, AWS, etc.
-
-![Tech Stack](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Tech Stack](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- **Languages:** Python, Java, JavaScript, TypeScript, C
+- **Frameworks & Libraries:** React, Express.js, Tailwind, Streamlit
+- **Databases:** Firebase, ChromaDB (Vector Database)
+- **Cloud Platforms:** Google Cloud
+- **Tools & Version Control:** Git, GitHub, Bash
+- **AI/ML & Computer Vision:** PyTorch, HuggingFace Transformers, Retrieval-Augmented Generation (RAG), LangChain, CVAT
 
 ---
 
 ## 📬 Contact Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/[LinkedInUsername])
-- Website: [Your Website](https://www.[YourWebsite].com)
-
----
-
-## ⚡ Fun Fact
-Add a fun fact or inspirational quote here!
-
----
-
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[GitHubUsername]&show_icons=true&theme=radical)
+- Email: [your.email@example.com](mailto:jeanyang.chen@gmail.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tanjeanyang)
 
 <!--
 **jeanyang04/jeanyang04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
